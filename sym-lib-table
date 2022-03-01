@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "PESD5V0U1UA")(type "KiCad")(uri "${KIPRJMOD}/PESD5V0U1BA.kicad_sym")(options "")(descr "Low capacitance bidirectional ESD protection diode"))
+)
