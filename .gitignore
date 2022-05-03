@@ -22,9 +22,5 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
-
 #APFS Metadata files
 **/.DS_Store
