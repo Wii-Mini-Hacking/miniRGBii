@@ -951,7 +951,7 @@
     (property "Value" "220μF" (id 1) (at 137.16 96.52 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder" (id 2) (at 144.78 101.2952 0)
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" (id 2) (at 144.78 101.2952 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 100.33 0)
@@ -973,7 +973,7 @@
     (property "Value" "220μF" (id 1) (at 137.16 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder" (id 2) (at 144.78 70.8152 0)
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" (id 2) (at 144.78 70.8152 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 69.85 0)
@@ -995,7 +995,7 @@
     (property "Value" "220μF" (id 1) (at 137.16 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder" (id 2) (at 144.78 39.0652 0)
+    (property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder" (id 2) (at 144.78 39.0652 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 140.97 38.1 0)
@@ -1563,13 +1563,13 @@
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005ed1e557"
-      (reference "C64") (unit 1) (value "220μF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder")
+      (reference "C64") (unit 1) (value "220μF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005ecd6281"
       (reference "C66") (unit 1) (value "50pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005ed1dc64"
-      (reference "C69") (unit 1) (value "220μF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder")
+      (reference "C69") (unit 1) (value "220μF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005ecdafcc"
       (reference "C72") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
@@ -1584,7 +1584,7 @@
       (reference "C83") (unit 1) (value "50pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005ed1f3c6"
-      (reference "C84") (unit 1) (value "220μF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder")
+      (reference "C84") (unit 1) (value "220μF") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder")
     )
     (path "/00000000-0000-0000-0000-00005ecf6bc3"
       (reference "C85") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
