@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/pakou/Documents/CS_Projects/EDA/miniRGBii/miniRGBii.kicad_sch</source>
-    <date>2022 May 03, Tuesday 18:37:58</date>
+    <date>Wednesday, 03 August 2022 at 15:16:21</date>
     <tool>Eeschema (6.0.0-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,21 +26,27 @@
   <components>
     <comp ref="C64">
       <value>220μF</value>
-      <footprint>Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder</footprint>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder</footprint>
       <fields>
+        <field name="LCSC">C79111</field>
         <field name="max. Voltage">6V</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="max. Voltage" value="6V"/>
+      <property name="LCSC" value="C79111"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ed1e557</tstamps>
     </comp>
     <comp ref="C66">
-      <value>50pF</value>
+      <value>47pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1671"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -48,12 +54,14 @@
     </comp>
     <comp ref="C69">
       <value>220μF</value>
-      <footprint>Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder</footprint>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder</footprint>
       <fields>
+        <field name="LCSC">C79111</field>
         <field name="max. Voltage">6V</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="max. Voltage" value="6V"/>
+      <property name="LCSC" value="C79111"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -62,16 +70,24 @@
     <comp ref="C72">
       <value>100pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14858</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14858"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ecdafcc</tstamps>
     </comp>
     <comp ref="C74">
-      <value>50pF</value>
+      <value>47pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1671"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -80,16 +96,24 @@
     <comp ref="C78">
       <value>100pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14858</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14858"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ece7b2c</tstamps>
     </comp>
     <comp ref="C83">
-      <value>50pF</value>
+      <value>47pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C1671"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -97,12 +121,14 @@
     </comp>
     <comp ref="C84">
       <value>220μF</value>
-      <footprint>Capacitor_Tantalum_SMD:CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder</footprint>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder</footprint>
       <fields>
+        <field name="LCSC">C79111</field>
         <field name="max. Voltage">6V</field>
       </fields>
       <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="max. Voltage" value="6V"/>
+      <property name="LCSC" value="C79111"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -111,7 +137,11 @@
     <comp ref="C85">
       <value>100pF</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C14858</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C14858"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -120,7 +150,11 @@
     <comp ref="D1">
       <value>PESD5V0U1BA</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC">C406223</field>
+      </fields>
       <libsource lib="PESD5V0U1UA" part="PESD5V0U1BA" description=""/>
+      <property name="LCSC" value="C406223"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -129,7 +163,11 @@
     <comp ref="D2">
       <value>PESD5V0U1BA</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC">C406223</field>
+      </fields>
       <libsource lib="PESD5V0U1UA" part="PESD5V0U1BA" description=""/>
+      <property name="LCSC" value="C406223"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -138,7 +176,11 @@
     <comp ref="D3">
       <value>PESD5V0U1BA</value>
       <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC">C406223</field>
+      </fields>
       <libsource lib="PESD5V0U1UA" part="PESD5V0U1BA" description=""/>
+      <property name="LCSC" value="C406223"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -156,7 +198,11 @@
     <comp ref="FIL15">
       <value>390nH</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C98095</field>
+      </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value="C98095"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -165,7 +211,11 @@
     <comp ref="FIL16">
       <value>390nH</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C98095</field>
+      </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value="C98095"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -174,97 +224,24 @@
     <comp ref="FIL17">
       <value>390nH</value>
       <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C98095</field>
+      </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="LCSC" value="C98095"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005ed8bf7a</tstamps>
     </comp>
-    <comp ref="J1">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f06ade7</tstamps>
-    </comp>
-    <comp ref="J2">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f06aded</tstamps>
-    </comp>
-    <comp ref="J3">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f06adf3</tstamps>
-    </comp>
-    <comp ref="J4">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f06ade1</tstamps>
-    </comp>
-    <comp ref="J5">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f06014a</tstamps>
-    </comp>
-    <comp ref="J6">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f06047b</tstamps>
-    </comp>
-    <comp ref="J7">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f060cc6</tstamps>
-    </comp>
-    <comp ref="J8">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f061511</tstamps>
-    </comp>
-    <comp ref="J9">
-      <value>Conn_01x01_Male</value>
-      <footprint>Pad:pad</footprint>
-      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>00000000-0000-0000-0000-00005f07713c</tstamps>
-    </comp>
     <comp ref="R37">
       <value>75Ω</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C4275</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4275"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -273,7 +250,11 @@
     <comp ref="R39">
       <value>75Ω</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C4275</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4275"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -282,7 +263,11 @@
     <comp ref="R40">
       <value>75Ω</value>
       <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C4275</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C4275"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="miniRGBii.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -397,17 +382,14 @@
   <nets>
     <net code="1" name="AVE54">
       <node ref="C84" pin="1" pintype="passive"/>
-      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R37" pin="1" pintype="passive"/>
     </net>
     <net code="2" name="AVE57">
       <node ref="C64" pin="1" pintype="passive"/>
-      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R39" pin="2" pintype="passive"/>
     </net>
     <net code="3" name="AVE59">
       <node ref="C69" pin="1" pintype="passive"/>
-      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R40" pin="2" pintype="passive"/>
     </net>
     <net code="4" name="GND">
@@ -418,15 +400,12 @@
       <node ref="D2" pin="2" pintype="passive"/>
       <node ref="D3" pin="2" pintype="passive"/>
       <node ref="D4" pin="2" pintype="passive"/>
-      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R37" pin="2" pintype="passive"/>
       <node ref="R39" pin="1" pintype="passive"/>
       <node ref="R40" pin="1" pintype="passive"/>
     </net>
     <net code="5" name="MODE">
       <node ref="D4" pin="1" pintype="passive"/>
-      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
-      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="6" name="Net-(C64-Pad2)">
       <node ref="C64" pin="2" pintype="passive"/>
@@ -450,19 +429,16 @@
       <node ref="C74" pin="2" pintype="passive"/>
       <node ref="D2" pin="1" pintype="passive"/>
       <node ref="FIL16" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="10" name="PrOut">
       <node ref="C66" pin="2" pintype="passive"/>
       <node ref="D3" pin="1" pintype="passive"/>
       <node ref="FIL15" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="11" name="YOut">
       <node ref="C83" pin="2" pintype="passive"/>
       <node ref="D1" pin="1" pintype="passive"/>
       <node ref="FIL17" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
   </nets>
 </export>

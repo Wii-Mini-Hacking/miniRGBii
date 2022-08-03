@@ -1,0 +1,7 @@
+Comment,Designator,Footprint,LCSC
+"220μF","C64,C69,C84","Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.50x2.35mm_HandSolder","C79111"
+"47pF","C66,C74,C83","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C1671"
+"100pF","C72,C78,C85","Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C14858"
+"PESD5V0U1BA","D1,D2,D3,D4","Diode_SMD:D_SOD-323_HandSoldering","C406223"
+"390nH","FIL15,FIL16,FIL17","Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C98095"
+"75Ω","R37,R39,R40","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","C4275"

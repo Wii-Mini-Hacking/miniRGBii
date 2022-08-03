@@ -3,6 +3,17 @@ Add-on Board that allows for the re-addition of component video output on a Wii 
 
 Designed by [@jobfeikens](https://github.com/jobfeikens) and [@Devnol](https://github.com/Devnol)
 
+## Where to buy
+
+The boards will hopefully be available for sale in the coming months, please check back later or follow the discord linked below for updates.
+
+## Fabrication
+
+The board gerber files, Bill of Materials, Pick-and-place and other related documents for fabrication are located in the /output directory.
+Gerbers use Protel-style file extensions (compatible with JLCPCB)
+Output documents specific to JLCPCB are located in the /output/jlcpcb directory.
+If you would like to order the boards from a different manufacturer, you may open a pull request for any manufacturer-specific files to be added.
+
 Original commit tree [here](https://github.com/Devnol/Miini-hwkit)
  
 For more information and help visit [the Wii mini Hacking discord server](https://discord.gg/7jNHphfDQk)
