@@ -1,11 +1,15 @@
 # miniRGBii
-Add-on Board that allows for the re-addition of component video output on a Wii Mini (KiCAD format)
+Add-on Board that allows for the re-addition of component video/480p output on a Wii Mini (KiCAD format)
 
 Designed by [@jobfeikens](https://github.com/jobfeikens) and [@Devnol](https://github.com/Devnol)
 
 ## Where to buy
 
-The boards will hopefully be available for sale in the coming months, please check back later or follow the discord linked below for updates.
+The boards will hopefully be available for sale in the coming weeks, please check back later or follow the discord linked below for updates.
+
+## Installation instructions
+
+You can find instructions on installing the miniRGBii as well as a bunch of other Wii mini mods on [Pimp-My-Mini](https://wii-mini-hacking.github.io/Pimp-My-mini/).
 
 ## Fabrication
 
