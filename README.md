@@ -5,7 +5,7 @@ Designed by [@jobfeikens](https://github.com/jobfeikens) and [@Devnol](https://g
 
 ## Where to buy
 
-The boards will hopefully be available for sale in the coming weeks, please check back later or follow the discord linked below for updates.
+You can currently order the miniRGBii directly from Devnol on [Tindie](https://www.tindie.com/products/27985/)
 
 ## Installation instructions
 
