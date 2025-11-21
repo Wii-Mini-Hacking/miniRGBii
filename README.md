@@ -5,8 +5,7 @@ Designed by [@jobfeikens](https://github.com/jobfeikens) and [@Devnol](https://g
 
 ## Where to buy
 
-You can currently order the miniRGBii directly from Devnol on [Tindie](https://www.tindie.com/products/27985/)
-
+You can currently order the miniRGBii directly from Devnol on [Lectronz](https://lectronz.com/products/minirgbii)
 ## Installation instructions
 
 You can find instructions on installing the miniRGBii as well as a bunch of other Wii mini mods on [Pimp-My-Mini](https://wii-mini-hacking.github.io/Pimp-My-mini/).
